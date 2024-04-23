@@ -1,0 +1,1 @@
+The verbConjugationGame is a Python program designed to help users practice Spanish verb conjugations. 
